@@ -6,3 +6,4 @@ tensorboard
 matplotlib
 streamlit
 scikeras
+keras # for hyperparameter tuning
