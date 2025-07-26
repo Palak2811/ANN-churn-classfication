@@ -1,0 +1,14 @@
+1) will perform basic feature enerinerging(converting varibkes into numercials,standardization)
+2) make a ann by input layers=number of coloumbs in dataset(by doing dropout,loss,optimizer)
+3)converting this model trained to .pickle file or .h5 file to deploy in streamlit
+
+
+in ann:-
+in tensorflow  ann is called sequential model/network 
+the parameters in this squential model are the total number of weights and baisis used in the model
+the  nurrons in hideen layers are created by keras library called dense 
+activation function 
+optimizer used to update weights
+loss function
+metrics used = in classfcation problem accuracy used ,in regression problem mse,mae ,etc used
+store the training info in tensorflow to display the logs in humanly readable way/histprgrams(visualization)
